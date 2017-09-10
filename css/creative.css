@@ -542,3 +542,12 @@ header.masthead .header-content .header-content-inner h1 {
     font-size: 8.3vmin;
 }
 
+
+ @media (max-width:992px) {
+    header.masthead .header-content .header-content-inner h1 {
+        font-size: 8.3vmin;
+        text-indent: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+ }
