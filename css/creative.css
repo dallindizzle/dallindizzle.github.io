@@ -561,3 +561,7 @@ header.masthead .header-content .header-content-inner h1 {
         overflow: hidden;
     }
  }
+
+ #music {
+    padding-top: 0;
+ }
